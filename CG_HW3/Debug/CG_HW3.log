@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\交大\碩士班\碩一上\圖學ta\homework3\cg_hw3\cg_hw3\main.cpp(19): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+  LINK : 最後的累加連結找不到或未建置 D:\交大\碩士班\碩一上\圖學TA\homework3\CG_HW3\Debug\CG_HW3.exe，正在執行完整連結
+  CG_HW3.vcxproj -> D:\交大\碩士班\碩一上\圖學TA\homework3\CG_HW3\Debug\CG_HW3.exe
+  CG_HW3.vcxproj -> D:\交大\碩士班\碩一上\圖學TA\homework3\CG_HW3\Debug\CG_HW3.pdb (Partial PDB)
